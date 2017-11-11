@@ -4,6 +4,9 @@ div {
 
 .first{
 	background-image: url(../the-flatiron-building.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
 	font-size: 18px;
 }
 html {
